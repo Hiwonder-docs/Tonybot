@@ -17,5 +17,6 @@ Tonybot
    docs/4.scratch_programming_projects.md
    docs/5.python_programming_projects.md
    docs/6.Arduino_programming_projects.md
+   docs/7.Group_Control.md
    docs/resources_download.md
    Download <https://drive.google.com/drive/folders/19Z4bLftxcqyEXROwatudhwp8MTWEHmWN?usp=sharing>
