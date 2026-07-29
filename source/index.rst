@@ -14,9 +14,10 @@ Tonybot
    docs/1.getting_ready.md
    docs/2.app_control.md
    docs/3.pc_software_action_control_course.md
-   docs/4.scratch_programming_projects.md
-   docs/5.python_programming_projects.md
-   docs/6.Arduino_programming_projects.md
-   docs/7.Group_Control.md
+   docs/4. Large AI Model Basic Course.md
+   docs/5.scratch_programming_projects.md
+   docs/6.python_programming_projects.md
+   docs/7.Arduino_programming_projects.md
+   docs/8.Group_Control.md
    docs/resources_download.md
    Download <https://drive.google.com/drive/folders/19Z4bLftxcqyEXROwatudhwp8MTWEHmWN?usp=sharing>
